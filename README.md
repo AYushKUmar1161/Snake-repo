@@ -1,6 +1,24 @@
 # Snake-repo
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/AYushKUmar1161/AYushKUmar1161/output/github-contribution-grid-snake.svg](https://www.itprotoday.com/devops/how-to-get-the-newest-google-snake-mods-on-github)" alt="Snake animation" />
-</p>
+Generates a snake game from a github user contributions graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+Pull a github user's contribution graph.
+Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
+
+Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image. Colors can [be](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-ocean.svg) [customized](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg).
